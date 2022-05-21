@@ -1,1 +1,1 @@
-https://heroku.com/deploy?https://github.com/kaildavid/pruebamio
+https://heroku.com/deploy?https://github.com/kaildavid/MGRBOT
